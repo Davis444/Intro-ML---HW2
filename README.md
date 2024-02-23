@@ -1,4 +1,7 @@
 # Intro-ML---HW2
+
+# Video executing code - https://www.loom.com/share/4161379bbb174c6b946468003d896e4e?sid=a7c3dcbe-948a-477e-b25b-f2736c545999
+
 This repository contains Python scripts to perform various operations using loops and functions.
 
 Star Pattern:
